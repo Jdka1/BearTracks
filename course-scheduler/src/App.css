@@ -1,0 +1,157 @@
+/* App.css */
+
+body {
+  font-family: "Inter", "Helvetica Neue", sans-serif;
+  background-color: #f7f9fc;
+  color: #003262;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 36px;
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.06);
+}
+
+h1 {
+  font-size: 2.4rem;
+  margin-bottom: 28px;
+  color: #003262;
+  text-align: center;
+  letter-spacing: -0.5px;
+}
+
+.section {
+  margin-bottom: 32px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: 600;
+  color: #003262;
+  font-size: 1.20rem;
+}
+
+select,
+textarea {
+  width: 100%;
+  padding: 12px 14px;
+  font-size: 1rem;
+  border-radius: 10px;
+  border: 1.5px solid #cbd5e1;
+  background-color: #fdfdfd;
+  transition: all 0.2s ease;
+}
+
+select:focus,
+textarea:focus {
+  outline: none;
+  border-color: #003262;
+  box-shadow: 0 0 0 3px rgba(0, 50, 98, 0.15);
+}
+
+.checkboxes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.checkbox-item {
+  display: flex;
+  align-items: center;
+  background-color: #f1f5f9;
+  padding: 8px 14px;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  border: 1px solid #dbe2ea;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+  cursor: pointer;
+}
+
+.checkbox-item:hover {
+  background-color: #e4eef8;
+  transform: translateY(-1px);
+}
+
+.checkbox-item input {
+  margin-right: 8px;
+  accent-color: #FDB515;
+}
+
+button {
+  background-color: #003262;
+  color: #fff;
+  padding: 14px 24px;
+  font-size: 1rem;
+  font-weight: 600;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.25s ease, transform 0.15s ease;
+}
+
+button:hover {
+  background-color: #002245;
+  transform: translateY(-1px);
+}
+
+.results {
+  margin-top: 40px;
+}
+
+.schedule-card {
+  background-color: #e8e8e0;
+  padding: 18px 20px;
+  border-radius: 12px;
+  margin-bottom: 24px;
+  border-left: 6px solid #FDB515;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.schedule-card strong {
+  color: #003262;
+  font-size: 1.1rem;
+}
+
+.schedule-card ul {
+  list-style: none;
+  padding: 0;
+  margin: 12px 0 0 0;
+}
+
+.schedule-card li {
+  padding: 6px 0;
+  border-bottom: 1px solid #dcdcdc;
+}
+
+.schedule-card li:last-child {
+  border-bottom: none;
+}
+
+.logo {
+  width: 90px;
+  height: 90px;
+  opacity: 0.95;
+  border-radius: 20%;
+  mask-image: radial-gradient(circle, rgba(0,0,0,1) 75%, rgba(0,0,0,0) 100%);
+  -webkit-mask-image: radial-gradient(circle, rgba(0,0,0,1) 75%, rgba(0,0,0,0) 100%);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  margin-bottom: 1.5rem;
+}
+
+.container {
+  transform: scale(0.75);
+  transform-origin: top center;
+}
