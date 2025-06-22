@@ -39,6 +39,7 @@ export default function App() {
   const [majorRequirements, setMajorRequirements] = useState({});
   const [availableMajors, setAvailableMajors] = useState([]);
   const [loading, setLoading] = useState(true);
+  const [generating, setGenerating] = useState(false);
 
   useEffect(() => {
     const fetchRequirements = async () => {
@@ -83,44 +84,48 @@ export default function App() {
     );
   };
 
-  const handleGenerateSchedules = () => {
-    const remainingReqs = majorRequirements[major].filter(
+  const handleGenerateSchedules = async () => {
+    if (!major || !majorRequirements[major]) return;
+
+    const notCompleted = majorRequirements[major].filter(
       (req) => !satisfied.includes(req)
     );
 
-    const timeOptions = [
-      ["MWF 9-10"],
-      ["MWF 10-11"],
-      ["MWF 11-12"],
-      ["TuTh 9-10:30"],
-      ["TuTh 11-12:30"],
-      ["TuTh 1-2:30"],
-      ["TuTh 3-4:30"],
-    ];
+    const payload = {
+      major,
+      not_completed: notCompleted,
+      user_input: preferences,
+      num_courses: 4
+    };
 
-    const allCourses = remainingReqs.map((req, idx) => {
-      const timeBlock = timeOptions[idx % timeOptions.length];
-      return {
-        courseCode: req,
-        courseName: `Course: ${req}`,
-        department: major,
-        description: "Auto-filled demo course",
-        units: "4",
-        days: timeBlock[0].split(" ")[0],
-        startTime: timeBlock[0].split(" ")[1].split("-")[0],
-        endTime: timeBlock[0].split(" ")[1].split("-")[1],
-        times: timeBlock,
-        location: "Dwinelle Hall",
-        instructor: "Prof. AutoBot"
-      };
-    });
+    setGenerating(true);
+    setSchedules([]);
 
-    const result = getSchedules(allCourses, 4).slice(0, 15); // limit to 15
-    setSchedules(result);
+    try {
+      const response = await fetch("http://192.168.86.40:5000/api/schedule", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify(payload)
+      });
+
+      if (!response.ok) {
+        throw new Error(`API error: ${response.statusText}`);
+      }
+
+      const data = await response.json();
+      if (data && data.combinations) {
+        setSchedules(data.combinations);
+      } else {
+        console.error("No combinations returned from API.");
+      }
+    } catch (error) {
+      console.error("Failed to generate schedules:", error);
+    } finally {
+      setGenerating(false);
+    }
   };
-
-
-
 
   if (loading) return <div className="container">Loading requirements...</div>;
 
@@ -182,7 +187,9 @@ export default function App() {
       <div className="App">
         <h1>Sample Schedules</h1>
 
-        {schedules.length > 0 ? (
+        {generating ? (
+          <p className="spinner">Generating schedules...</p>
+        ) : schedules.length > 0 ? (
           <div className="scroll-container">
             <div className="scroll-track">
               {schedules.map((schedule, idx) => (
