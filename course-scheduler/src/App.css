@@ -41,12 +41,20 @@ label {
 select,
 textarea {
   width: 100%;
-  padding: 12px 14px;
+  padding: 12px 0px;
   font-size: 1rem;
   border-radius: 10px;
   border: 1.5px solid #cbd5e1;
   background-color: #fdfdfd;
   transition: all 0.2s ease;
+  resize: vertical;
+}
+
+textarea {
+  min-height: 100px;
+  max-height: 300px;
+  padding: 1rem;
+  width: calc(100% - 1rem - 24px);
 }
 
 select:focus,
