@@ -211,9 +211,11 @@ h1 {
 
 
 /* Add this for a simple loading bar/spinner if you want */
+
 .spinner {
   text-align: center;
   font-weight: bold;
+  font-size: 1.2rem;
   color: #003262;
   animation: pulse 1.5s infinite ease-in-out;
 }
