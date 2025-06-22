@@ -1,0 +1,1592 @@
+{
+  "MATH 51": [
+    "MATH 51"
+  ],
+  "MATH 52": [
+    "MATH 52"
+  ],
+  "MATH 53": [
+    "MATH 53"
+  ],
+  "MATH H53": [
+    "MATH H53"
+  ],
+  "MATH N53": [
+    "MATH N53"
+  ],
+  "MATH W53": [
+    "MATH W53"
+  ],
+  "MATH 54": [
+    "MATH 54"
+  ],
+  "MATH H54": [
+    "MATH H54"
+  ],
+  "MATH N54": [
+    "MATH N54"
+  ],
+  "MATH 56": [
+    "MATH 56"
+  ],
+  "STAT 20": [
+    "STAT 20"
+  ],
+  "DATA C8": [
+    "DATA C8"
+  ],
+  "STAT 133": [
+    "STAT 133"
+  ],
+  "STAT 134": [
+    "STAT 134"
+  ],
+  "DATA C140": [
+    "DATA C140"
+  ],
+  "EECS 126": [
+    "EECS 126"
+  ],
+  "MATH 106": [
+    "MATH 106"
+  ],
+  "STAT 135": [
+    "STAT 135"
+  ],
+  "DATA C102": [
+    "DATA C102"
+  ],
+  "STAT 150": [
+    "STAT 150"
+  ],
+  "STAT 151A": [
+    "STAT 151A"
+  ],
+  "STAT 152": [
+    "STAT 152"
+  ],
+  "STAT 153": [
+    "STAT 153"
+  ],
+  "STAT 154": [
+    "STAT 154"
+  ],
+  "STAT 155": [
+    "STAT 155"
+  ],
+  "STAT 156": [
+    "STAT 156"
+  ],
+  "STAT 157": [
+    "STAT 157"
+  ],
+  "STAT 158": [
+    "STAT 158"
+  ],
+  "STAT 159": [
+    "STAT 159"
+  ],
+  "STAT 165": [
+    "STAT 165"
+  ],
+  "MATH 110": [
+    "MATH 110"
+  ],
+  "MATH 113": [
+    "MATH 113"
+  ],
+  "MATH 151": [
+    "MATH 151"
+  ],
+  "MATH 152": [
+    "MATH 152"
+  ],
+  "ANTHRO 115": [
+    "ANTHRO 115"
+  ],
+  "ANTHRO 121C": [
+    "ANTHRO 121C"
+  ],
+  "ANTHRO 127A": [
+    "ANTHRO 127A"
+  ],
+  "ANTHRO 127B": [
+    "ANTHRO 127B"
+  ],
+  "ANTHRO 132A": [
+    "ANTHRO 132A"
+  ],
+  "ANTHRO 135": [
+    "ANTHRO 135"
+  ],
+  "ANTHRO 169B": [
+    "ANTHRO 169B"
+  ],
+  "ARCH 140": [
+    "ARCH 140"
+  ],
+  "ARCH 150": [
+    "ARCH 150"
+  ],
+  "ARCH 154": [
+    "ARCH 154"
+  ],
+  "ASTRON 128": [
+    "ASTRON 128"
+  ],
+  "ASTRON 160": [
+    "ASTRON 160"
+  ],
+  "ASTRON C161": [
+    "ASTRON C161"
+  ],
+  "ASTRON C162": [
+    "ASTRON C162"
+  ],
+  "BIO ENG 104": [
+    "BIO ENG 104"
+  ],
+  "BIO ENG C112": [
+    "BIO ENG C112"
+  ],
+  "BIO ENG C117": [
+    "BIO ENG C117"
+  ],
+  "BIO ENG C119": [
+    "BIO ENG C119"
+  ],
+  "BIO ENG C125": [
+    "BIO ENG C125"
+  ],
+  "BIO ENG C125B": [
+    "BIO ENG C125B"
+  ],
+  "BIO ENG 131": [
+    "BIO ENG 131"
+  ],
+  "BIO ENG C136L": [
+    "BIO ENG C136L"
+  ],
+  "BIO ENG C137": [
+    "BIO ENG C137"
+  ],
+  "BIO ENG C145L": [
+    "BIO ENG C145L"
+  ],
+  "BIO ENG C145M": [
+    "BIO ENG C145M"
+  ],
+  "BIO ENG 147": [
+    "BIO ENG 147"
+  ],
+  "BIO ENG C165": [
+    "BIO ENG C165"
+  ],
+  "BIO ENG C181": [
+    "BIO ENG C181"
+  ],
+  "CHM ENG 140": [
+    "CHM ENG 140"
+  ],
+  "CHM ENG 141": [
+    "CHM ENG 141"
+  ],
+  "CHM ENG C195A": [
+    "CHM ENG C195A"
+  ],
+  "CHEM C110L": [
+    "CHEM C110L"
+  ],
+  "CHEM 120A": [
+    "CHEM 120A"
+  ],
+  "CHEM 120B": [
+    "CHEM 120B"
+  ],
+  "CHEM C130": [
+    "CHEM C130"
+  ],
+  "CHEM C138": [
+    "CHEM C138"
+  ],
+  "CY PLAN 101": [
+    "CY PLAN 101"
+  ],
+  "CY PLAN 118AC": [
+    "CY PLAN 118AC"
+  ],
+  "CY PLAN 119": [
+    "CY PLAN 119"
+  ],
+  "CIV ENG 100": [
+    "CIV ENG 100"
+  ],
+  "CIV ENG C106": [
+    "CIV ENG C106"
+  ],
+  "CIV ENG C116": [
+    "CIV ENG C116"
+  ],
+  "CIV ENG C133": [
+    "CIV ENG C133"
+  ],
+  "CIV ENG 155": [
+    "CIV ENG 155"
+  ],
+  "COG SCI C100": [
+    "COG SCI C100"
+  ],
+  "COG SCI C101": [
+    "COG SCI C101"
+  ],
+  "COG SCI C126": [
+    "COG SCI C126"
+  ],
+  "COG SCI C127": [
+    "COG SCI C127"
+  ],
+  "COG SCI 131": [
+    "COG SCI 131"
+  ],
+  "COG SCI C140": [
+    "COG SCI C140"
+  ],
+  "COMPSCI 152": [
+    "COMPSCI 152"
+  ],
+  "COMPSCI 160": [
+    "COMPSCI 160"
+  ],
+  "COMPSCI 161": [
+    "COMPSCI 161"
+  ],
+  "COMPSCI 162": [
+    "COMPSCI 162"
+  ],
+  "COMPSCI 164": [
+    "COMPSCI 164"
+  ],
+  "COMPSCI 168": [
+    "COMPSCI 168"
+  ],
+  "COMPSCI 169A": [
+    "COMPSCI 169A"
+  ],
+  "COMPSCI 170": [
+    "COMPSCI 170"
+  ],
+  "COMPSCI 172": [
+    "COMPSCI 172"
+  ],
+  "COMPSCI 176": [
+    "COMPSCI 176"
+  ],
+  "COMPSCI 184": [
+    "COMPSCI 184"
+  ],
+  "COMPSCI 186": [
+    "COMPSCI 186"
+  ],
+  "COMPSCI 188": [
+    "COMPSCI 188"
+  ],
+  "COMPSCI 189": [
+    "COMPSCI 189"
+  ],
+  "DATA C104": [
+    "DATA C104"
+  ],
+  "DATA 144": [
+    "DATA 144"
+  ],
+  "DEMOG 110": [
+    "DEMOG 110"
+  ],
+  "DEMOG C126": [
+    "DEMOG C126"
+  ],
+  "DEMOG C175": [
+    "DEMOG C175"
+  ],
+  "DEMOG 180": [
+    "DEMOG 180"
+  ],
+  "DEMOG 260": [
+    "DEMOG 260"
+  ],
+  "DIGHUM 150C": [
+    "DIGHUM 150C"
+  ],
+  "EPS 101": [
+    "EPS 101"
+  ],
+  "EPS 109": [
+    "EPS 109"
+  ],
+  "EPS C129": [
+    "EPS C129"
+  ],
+  "EPS 130": [
+    "EPS 130"
+  ],
+  "EPS C162": [
+    "EPS C162"
+  ],
+  "EPS C180": [
+    "EPS C180"
+  ],
+  "EPS C181": [
+    "EPS C181"
+  ],
+  "ECON 101A": [
+    "ECON 101A"
+  ],
+  "ECON 101B": [
+    "ECON 101B"
+  ],
+  "ECON C102": [
+    "ECON C102"
+  ],
+  "ECON C103": [
+    "ECON C103"
+  ],
+  "ECON 104": [
+    "ECON 104"
+  ],
+  "ECON C110": [
+    "ECON C110"
+  ],
+  "ECON 119": [
+    "ECON 119"
+  ],
+  "ECON 121": [
+    "ECON 121"
+  ],
+  "ECON C125": [
+    "ECON C125"
+  ],
+  "ECON 131": [
+    "ECON 131"
+  ],
+  "ECON 136": [
+    "ECON 136"
+  ],
+  "ECON 138": [
+    "ECON 138"
+  ],
+  "ECON 139": [
+    "ECON 139"
+  ],
+  "ECON 141": [
+    "ECON 141"
+  ],
+  "ECON C142": [
+    "ECON C142"
+  ],
+  "ECON 144": [
+    "ECON 144"
+  ],
+  "ECON 148": [
+    "ECON 148"
+  ],
+  "ECON 157": [
+    "ECON 157"
+  ],
+  "ECON C171": [
+    "ECON C171"
+  ],
+  "ECON 174": [
+    "ECON 174"
+  ],
+  "ECON C175": [
+    "ECON C175"
+  ],
+  "ECON N175": [
+    "ECON N175"
+  ],
+  "ECON C181": [
+    "ECON C181"
+  ],
+  "ECON 182": [
+    "ECON 182"
+  ],
+  "EL ENG 105": [
+    "EL ENG 105"
+  ],
+  "EL ENG C106A": [
+    "EL ENG C106A"
+  ],
+  "EL ENG C106B": [
+    "EL ENG C106B"
+  ],
+  "EL ENG 113": [
+    "EL ENG 113"
+  ],
+  "EL ENG 117": [
+    "EL ENG 117"
+  ],
+  "EL ENG 118": [
+    "EL ENG 118"
+  ],
+  "EL ENG 120": [
+    "EL ENG 120"
+  ],
+  "EL ENG 121": [
+    "EL ENG 121"
+  ],
+  "EL ENG 122": [
+    "EL ENG 122"
+  ],
+  "EL ENG 123": [
+    "EL ENG 123"
+  ],
+  "EL ENG C128": [
+    "EL ENG C128"
+  ],
+  "EL ENG 130": [
+    "EL ENG 130"
+  ],
+  "EL ENG 134": [
+    "EL ENG 134"
+  ],
+  "EL ENG 137A": [
+    "EL ENG 137A"
+  ],
+  "EL ENG 137B": [
+    "EL ENG 137B"
+  ],
+  "EL ENG 140": [
+    "EL ENG 140"
+  ],
+  "EL ENG 142": [
+    "EL ENG 142"
+  ],
+  "EL ENG 143": [
+    "EL ENG 143"
+  ],
+  "EL ENG 144": [
+    "EL ENG 144"
+  ],
+  "EL ENG C145B": [
+    "EL ENG C145B"
+  ],
+  "EL ENG C145L": [
+    "EL ENG C145L"
+  ],
+  "EL ENG C145M": [
+    "EL ENG C145M"
+  ],
+  "EL ENG C145O": [
+    "EL ENG C145O"
+  ],
+  "EL ENG 147": [
+    "EL ENG 147"
+  ],
+  "EECS 127": [
+    "EECS 127"
+  ],
+  "EECS C106A": [
+    "EECS C106A"
+  ],
+  "EECS C106B": [
+    "EECS C106B"
+  ],
+  "ENE,RES C100": [
+    "ENE,RES C100"
+  ],
+  "ENE,RES 102": [
+    "ENE,RES 102"
+  ],
+  "ENE,RES 131": [
+    "ENE,RES 131"
+  ],
+  "ENE,RES 175": [
+    "ENE,RES 175"
+  ],
+  "ENE,RES C176": [
+    "ENE,RES C176"
+  ],
+  "ENGIN 117": [
+    "ENGIN 117"
+  ],
+  "ENGIN 120": [
+    "ENGIN 120"
+  ],
+  "ENVECON C101": [
+    "ENVECON C101"
+  ],
+  "ENVECON C102": [
+    "ENVECON C102"
+  ],
+  "ENVECON C115": [
+    "ENVECON C115"
+  ],
+  "ENVECON 131": [
+    "ENVECON 131"
+  ],
+  "ENVECON 140AC": [
+    "ENVECON 140AC"
+  ],
+  "ENVECON 141": [
+    "ENVECON 141"
+  ],
+  "ENVECON 142": [
+    "ENVECON 142"
+  ],
+  "ENVECON 143": [
+    "ENVECON 143"
+  ],
+  "ENVECON 145": [
+    "ENVECON 145"
+  ],
+  "ENVECON 147": [
+    "ENVECON 147"
+  ],
+  "ENVECON C151": [
+    "ENVECON C151"
+  ],
+  "ENVECON 152": [
+    "ENVECON 152"
+  ],
+  "ENVECON 153": [
+    "ENVECON 153"
+  ],
+  "ENVECON 154": [
+    "ENVECON 154"
+  ],
+  "ENVECON 161": [
+    "ENVECON 161"
+  ],
+  "ENVECON 162": [
+    "ENVECON 162"
+  ],
+  "ENVECON C175": [
+    "ENVECON C175"
+  ],
+  "ENVECON C176": [
+    "ENVECON C176"
+  ],
+  "ENVECON C181": [
+    "ENVECON C181"
+  ],
+  "ENVECON C183": [
+    "ENVECON C183"
+  ],
+  "ESPM 100": [
+    "ESPM 100"
+  ],
+  "ESPM 102C": [
+    "ESPM 102C"
+  ],
+  "ESPM 102D": [
+    "ESPM 102D"
+  ],
+  "ESPM C103": [
+    "ESPM C103"
+  ],
+  "ESPM C104": [
+    "ESPM C104"
+  ],
+  "ESPM C107": [
+    "ESPM C107"
+  ],
+  "ESPM 108A": [
+    "ESPM 108A"
+  ],
+  "ESPM 108B": [
+    "ESPM 108B"
+  ],
+  "ESPM 111": [
+    "ESPM 111"
+  ],
+  "ESPM 112": [
+    "ESPM 112"
+  ],
+  "ESPM 114": [
+    "ESPM 114"
+  ],
+  "ESPM 115C": [
+    "ESPM 115C"
+  ],
+  "ESPM 116B": [
+    "ESPM 116B"
+  ],
+  "ESPM 116C": [
+    "ESPM 116C"
+  ],
+  "ESPM 117": [
+    "ESPM 117"
+  ],
+  "ESPM 118": [
+    "ESPM 118"
+  ],
+  "ESPM 120": [
+    "ESPM 120"
+  ],
+  "ESPM 121": [
+    "ESPM 121"
+  ],
+  "ESPM C126": [
+    "ESPM C126"
+  ],
+  "ESPM C128": [
+    "ESPM C128"
+  ],
+  "ESPM C129": [
+    "ESPM C129"
+  ],
+  "ESPM 131": [
+    "ESPM 131"
+  ],
+  "ESPM 132": [
+    "ESPM 132"
+  ],
+  "ESPM C138": [
+    "ESPM C138"
+  ],
+  "ESPM 140": [
+    "ESPM 140"
+  ],
+  "ESPM 142": [
+    "ESPM 142"
+  ],
+  "ESPM 144": [
+    "ESPM 144"
+  ],
+  "ESPM C148": [
+    "ESPM C148"
+  ],
+  "ESPM 152": [
+    "ESPM 152"
+  ],
+  "ESPM 164": [
+    "ESPM 164"
+  ],
+  "ESPM 165": [
+    "ESPM 165"
+  ],
+  "ESPM 172": [
+    "ESPM 172"
+  ],
+  "ESPM 173": [
+    "ESPM 173"
+  ],
+  "ESPM C177": [
+    "ESPM C177"
+  ],
+  "ESPM C180": [
+    "ESPM C180"
+  ],
+  "ESPM 181A": [
+    "ESPM 181A"
+  ],
+  "ESPM 182": [
+    "ESPM 182"
+  ],
+  "ESPM 183": [
+    "ESPM 183"
+  ],
+  "ESPM C183": [
+    "ESPM C183"
+  ],
+  "ESPM 185": [
+    "ESPM 185"
+  ],
+  "ESPM 186": [
+    "ESPM 186"
+  ],
+  "ESPM 187": [
+    "ESPM 187"
+  ],
+  "GEOG C136": [
+    "GEOG C136"
+  ],
+  "GEOG C139": [
+    "GEOG C139"
+  ],
+  "GEOG 140A": [
+    "GEOG 140A"
+  ],
+  "GEOG 142": [
+    "GEOG 142"
+  ],
+  "GEOG 143": [
+    "GEOG 143"
+  ],
+  "GEOG 187": [
+    "GEOG 187"
+  ],
+  "GEOG C188": [
+    "GEOG C188"
+  ],
+  "HISTORY C184D": [
+    "HISTORY C184D"
+  ],
+  "IND ENG 115": [
+    "IND ENG 115"
+  ],
+  "IND ENG 130": [
+    "IND ENG 130"
+  ],
+  "IND ENG 135": [
+    "IND ENG 135"
+  ],
+  "IND ENG 142": [
+    "IND ENG 142"
+  ],
+  "IND ENG 150": [
+    "IND ENG 150"
+  ],
+  "IND ENG 151": [
+    "IND ENG 151"
+  ],
+  "IND ENG 153": [
+    "IND ENG 153"
+  ],
+  "IND ENG 160": [
+    "IND ENG 160"
+  ],
+  "IND ENG 162": [
+    "IND ENG 162"
+  ],
+  "IND ENG 166": [
+    "IND ENG 166"
+  ],
+  "IND ENG 170": [
+    "IND ENG 170"
+  ],
+  "IND ENG 221": [
+    "IND ENG 221"
+  ],
+  "IND ENG 222": [
+    "IND ENG 222"
+  ],
+  "INFO 159": [
+    "INFO 159"
+  ],
+  "INFO 188": [
+    "INFO 188"
+  ],
+  "INFO 213": [
+    "INFO 213"
+  ],
+  "INFO 247": [
+    "INFO 247"
+  ],
+  "INFO 256": [
+    "INFO 256"
+  ],
+  "INFO 271B": [
+    "INFO 271B"
+  ],
+  "INFO 272": [
+    "INFO 272"
+  ],
+  "INTEGBI 102LF": [
+    "INTEGBI 102LF"
+  ],
+  "INTEGBI 103LF": [
+    "INTEGBI 103LF"
+  ],
+  "INTEGBI 104LF": [
+    "INTEGBI 104LF"
+  ],
+  "INTEGBI C107L": [
+    "INTEGBI C107L"
+  ],
+  "INTEGBI C109": [
+    "INTEGBI C109"
+  ],
+  "INTEGBI C110L": [
+    "INTEGBI C110L"
+  ],
+  "INTEGBI 113L": [
+    "INTEGBI 113L"
+  ],
+  "INTEGBI 117": [
+    "INTEGBI 117"
+  ],
+  "INTEGBI 118": [
+    "INTEGBI 118"
+  ],
+  "INTEGBI 123AL": [
+    "INTEGBI 123AL"
+  ],
+  "INTEGBI C125L": [
+    "INTEGBI C125L"
+  ],
+  "INTEGBI 128": [
+    "INTEGBI 128"
+  ],
+  "INTEGBI C129L": [
+    "INTEGBI C129L"
+  ],
+  "INTEGBI 131": [
+    "INTEGBI 131"
+  ],
+  "INTEGBI 132": [
+    "INTEGBI 132"
+  ],
+  "INTEGBI 134L": [
+    "INTEGBI 134L"
+  ],
+  "INTEGBI 135": [
+    "INTEGBI 135"
+  ],
+  "INTEGBI C135L": [
+    "INTEGBI C135L"
+  ],
+  "INTEGBI 137": [
+    "INTEGBI 137"
+  ],
+  "INTEGBI 138": [
+    "INTEGBI 138"
+  ],
+  "INTEGBI 139": [
+    "INTEGBI 139"
+  ],
+  "INTEGBI 140": [
+    "INTEGBI 140"
+  ],
+  "INTEGBI C143A": [
+    "INTEGBI C143A"
+  ],
+  "INTEGBI C144": [
+    "INTEGBI C144"
+  ],
+  "INTEGBI 146LF": [
+    "INTEGBI 146LF"
+  ],
+  "INTEGBI 148": [
+    "INTEGBI 148"
+  ],
+  "INTEGBI 151": [
+    "INTEGBI 151"
+  ],
+  "INTEGBI 154": [
+    "INTEGBI 154"
+  ],
+  "INTEGBI C156": [
+    "INTEGBI C156"
+  ],
+  "INTEGBI 157LF": [
+    "INTEGBI 157LF"
+  ],
+  "INTEGBI 161": [
+    "INTEGBI 161"
+  ],
+  "INTEGBI 162": [
+    "INTEGBI 162"
+  ],
+  "INTEGBI 164": [
+    "INTEGBI 164"
+  ],
+  "INTEGBI 168L": [
+    "INTEGBI 168L"
+  ],
+  "INTEGBI 169": [
+    "INTEGBI 169"
+  ],
+  "INTEGBI 173LF": [
+    "INTEGBI 173LF"
+  ],
+  "INTEGBI 174LF": [
+    "INTEGBI 174LF"
+  ],
+  "INTEGBI 175LF": [
+    "INTEGBI 175LF"
+  ],
+  "INTEGBI 181L": [
+    "INTEGBI 181L"
+  ],
+  "INTEGBI 184L": [
+    "INTEGBI 184L"
+  ],
+  "IAS C175": [
+    "IAS C175"
+  ],
+  "IAS C176": [
+    "IAS C176"
+  ],
+  "LD ARCH 122": [
+    "LD ARCH 122"
+  ],
+  "LD ARCH C177": [
+    "LD ARCH C177"
+  ],
+  "LD ARCH C188": [
+    "LD ARCH C188"
+  ],
+  "L & S C180U": [
+    "L & S C180U"
+  ],
+  "LEGALST 123": [
+    "LEGALST 123"
+  ],
+  "LINGUIS 100": [
+    "LINGUIS 100"
+  ],
+  "LINGUIS C105": [
+    "LINGUIS C105"
+  ],
+  "LINGUIS 110": [
+    "LINGUIS 110"
+  ],
+  "LINGUIS 113": [
+    "LINGUIS 113"
+  ],
+  "LINGUIS 140": [
+    "LINGUIS 140"
+  ],
+  "LINGUIS C146": [
+    "LINGUIS C146"
+  ],
+  "LINGUIS C160": [
+    "LINGUIS C160"
+  ],
+  "MATH C103": [
+    "MATH C103"
+  ],
+  "MATH 104": [
+    "MATH 104"
+  ],
+  "MATH H104": [
+    "MATH H104"
+  ],
+  "MATH 105": [
+    "MATH 105"
+  ],
+  "MATH H110": [
+    "MATH H110"
+  ],
+  "MATH H113": [
+    "MATH H113"
+  ],
+  "MATH 114": [
+    "MATH 114"
+  ],
+  "MATH 115": [
+    "MATH 115"
+  ],
+  "MATH 116": [
+    "MATH 116"
+  ],
+  "MATH 118": [
+    "MATH 118"
+  ],
+  "MATH 121A": [
+    "MATH 121A"
+  ],
+  "MATH 121B": [
+    "MATH 121B"
+  ],
+  "MATH 123": [
+    "MATH 123"
+  ],
+  "MATH 124": [
+    "MATH 124"
+  ],
+  "MATH 125A": [
+    "MATH 125A"
+  ],
+  "MATH 126": [
+    "MATH 126"
+  ],
+  "MATH 127": [
+    "MATH 127"
+  ],
+  "MATH 128A": [
+    "MATH 128A"
+  ],
+  "MATH 128B": [
+    "MATH 128B"
+  ],
+  "MATH 130": [
+    "MATH 130"
+  ],
+  "MATH 135": [
+    "MATH 135"
+  ],
+  "MATH 136": [
+    "MATH 136"
+  ],
+  "MATH 140": [
+    "MATH 140"
+  ],
+  "MATH 141": [
+    "MATH 141"
+  ],
+  "MATH 142": [
+    "MATH 142"
+  ],
+  "MATH 143": [
+    "MATH 143"
+  ],
+  "MATH 170": [
+    "MATH 170"
+  ],
+  "MATH 172": [
+    "MATH 172"
+  ],
+  "MATH 185": [
+    "MATH 185"
+  ],
+  "MATH H185": [
+    "MATH H185"
+  ],
+  "MATH 189": [
+    "MATH 189"
+  ],
+  "MATH 221": [
+    "MATH 221"
+  ],
+  "MEC ENG 101": [
+    "MEC ENG 101"
+  ],
+  "MEC ENG 102B": [
+    "MEC ENG 102B"
+  ],
+  "MEC ENG 104": [
+    "MEC ENG 104"
+  ],
+  "MEC ENG 106": [
+    "MEC ENG 106"
+  ],
+  "MEC ENG 108": [
+    "MEC ENG 108"
+  ],
+  "MEC ENG 109": [
+    "MEC ENG 109"
+  ],
+  "MEC ENG 110": [
+    "MEC ENG 110"
+  ],
+  "MEC ENG C115": [
+    "MEC ENG C115"
+  ],
+  "MEC ENG C117": [
+    "MEC ENG C117"
+  ],
+  "MEC ENG 118": [
+    "MEC ENG 118"
+  ],
+  "MEC ENG 119": [
+    "MEC ENG 119"
+  ],
+  "MEC ENG 120": [
+    "MEC ENG 120"
+  ],
+  "MEC ENG 122": [
+    "MEC ENG 122"
+  ],
+  "MEC ENG 130": [
+    "MEC ENG 130"
+  ],
+  "MEC ENG 131": [
+    "MEC ENG 131"
+  ],
+  "MEC ENG 132": [
+    "MEC ENG 132"
+  ],
+  "MEC ENG 133": [
+    "MEC ENG 133"
+  ],
+  "MEC ENG C134": [
+    "MEC ENG C134"
+  ],
+  "MEC ENG 135": [
+    "MEC ENG 135"
+  ],
+  "MEC ENG 138": [
+    "MEC ENG 138"
+  ],
+  "MEC ENG 140": [
+    "MEC ENG 140"
+  ],
+  "MEC ENG 146": [
+    "MEC ENG 146"
+  ],
+  "MEC ENG 150A": [
+    "MEC ENG 150A"
+  ],
+  "MEC ENG 151": [
+    "MEC ENG 151"
+  ],
+  "MEC ENG 163": [
+    "MEC ENG 163"
+  ],
+  "MEC ENG 164": [
+    "MEC ENG 164"
+  ],
+  "MEC ENG 165": [
+    "MEC ENG 165"
+  ],
+  "MEC ENG 167": [
+    "MEC ENG 167"
+  ],
+  "MEC ENG 168": [
+    "MEC ENG 168"
+  ],
+  "MEC ENG 170": [
+    "MEC ENG 170"
+  ],
+  "MEC ENG 173": [
+    "MEC ENG 173"
+  ],
+  "MEC ENG 175": [
+    "MEC ENG 175"
+  ],
+  "MEC ENG C176": [
+    "MEC ENG C176"
+  ],
+  "MEC ENG C178": [
+    "MEC ENG C178"
+  ],
+  "MEC ENG C180": [
+    "MEC ENG C180"
+  ],
+  "MEC ENG 185": [
+    "MEC ENG 185"
+  ],
+  "MCELLBI 100B": [
+    "MCELLBI 100B"
+  ],
+  "MCELLBI C100A": [
+    "MCELLBI C100A"
+  ],
+  "MCELLBI 102": [
+    "MCELLBI 102"
+  ],
+  "MCELLBI C103": [
+    "MCELLBI C103"
+  ],
+  "MCELLBI 104": [
+    "MCELLBI 104"
+  ],
+  "MCELLBI 110": [
+    "MCELLBI 110"
+  ],
+  "MCELLBI C110L": [
+    "MCELLBI C110L"
+  ],
+  "MCELLBI C112": [
+    "MCELLBI C112"
+  ],
+  "MCELLBI C114": [
+    "MCELLBI C114"
+  ],
+  "MCELLBI C116": [
+    "MCELLBI C116"
+  ],
+  "MCELLBI 132": [
+    "MCELLBI 132"
+  ],
+  "MCELLBI 133L": [
+    "MCELLBI 133L"
+  ],
+  "MCELLBI C134": [
+    "MCELLBI C134"
+  ],
+  "MCELLBI 135A": [
+    "MCELLBI 135A"
+  ],
+  "MCELLBI 136": [
+    "MCELLBI 136"
+  ],
+  "MCELLBI 137L": [
+    "MCELLBI 137L"
+  ],
+  "MCELLBI 140": [
+    "MCELLBI 140"
+  ],
+  "MCELLBI 140L": [
+    "MCELLBI 140L"
+  ],
+  "MCELLBI 141": [
+    "MCELLBI 141"
+  ],
+  "MCELLBI 143": [
+    "MCELLBI 143"
+  ],
+  "MCELLBI C148": [
+    "MCELLBI C148"
+  ],
+  "MCELLBI 149": [
+    "MCELLBI 149"
+  ],
+  "MCELLBI 150": [
+    "MCELLBI 150"
+  ],
+  "MCELLBI 150L": [
+    "MCELLBI 150L"
+  ],
+  "MUSIC 108": [
+    "MUSIC 108"
+  ],
+  "MUSIC 109": [
+    "MUSIC 109"
+  ],
+  "NUC ENG 100": [
+    "NUC ENG 100"
+  ],
+  "NUC ENG 130": [
+    "NUC ENG 130"
+  ],
+  "NUC ENG 175": [
+    "NUC ENG 175"
+  ],
+  "NUSCTX 103": [
+    "NUSCTX 103"
+  ],
+  "NUSCTX C114": [
+    "NUSCTX C114"
+  ],
+  "PHILOS 121": [
+    "PHILOS 121"
+  ],
+  "PHILOS 128": [
+    "PHILOS 128"
+  ],
+  "PHILOS 140A": [
+    "PHILOS 140A"
+  ],
+  "PHILOS 140B": [
+    "PHILOS 140B"
+  ],
+  "PHILOS 142": [
+    "PHILOS 142"
+  ],
+  "PHILOS 143": [
+    "PHILOS 143"
+  ],
+  "PHILOS 146": [
+    "PHILOS 146"
+  ],
+  "PHYS ED C129": [
+    "PHYS ED C129"
+  ],
+  "PHYS ED C165": [
+    "PHYS ED C165"
+  ],
+  "PHYSICS 105": [
+    "PHYSICS 105"
+  ],
+  "PHYSICS 110A": [
+    "PHYSICS 110A"
+  ],
+  "PHYSICS 110B": [
+    "PHYSICS 110B"
+  ],
+  "PHYSICS 111A": [
+    "PHYSICS 111A"
+  ],
+  "PHYSICS 111B": [
+    "PHYSICS 111B"
+  ],
+  "PHYSICS 112": [
+    "PHYSICS 112"
+  ],
+  "PHYSICS 129": [
+    "PHYSICS 129"
+  ],
+  "PHYSICS 130": [
+    "PHYSICS 130"
+  ],
+  "PHYSICS 137A": [
+    "PHYSICS 137A"
+  ],
+  "PHYSICS 137B": [
+    "PHYSICS 137B"
+  ],
+  "PHYSICS 138": [
+    "PHYSICS 138"
+  ],
+  "PHYSICS 139": [
+    "PHYSICS 139"
+  ],
+  "PHYSICS 141A": [
+    "PHYSICS 141A"
+  ],
+  "PHYSICS 141B": [
+    "PHYSICS 141B"
+  ],
+  "PHYSICS 142": [
+    "PHYSICS 142"
+  ],
+  "PHYSICS 151": [
+    "PHYSICS 151"
+  ],
+  "PHYSICS C161": [
+    "PHYSICS C161"
+  ],
+  "PHYSICS 177": [
+    "PHYSICS 177"
+  ],
+  "PLANTBI 101L": [
+    "PLANTBI 101L"
+  ],
+  "PLANTBI C103": [
+    "PLANTBI C103"
+  ],
+  "PLANTBI C107L": [
+    "PLANTBI C107L"
+  ],
+  "PLANTBI C109": [
+    "PLANTBI C109"
+  ],
+  "PLANTBI C110L": [
+    "PLANTBI C110L"
+  ],
+  "PLANTBI C112": [
+    "PLANTBI C112"
+  ],
+  "PLANTBI 113": [
+    "PLANTBI 113"
+  ],
+  "PLANTBI C114": [
+    "PLANTBI C114"
+  ],
+  "PLANTBI C116": [
+    "PLANTBI C116"
+  ],
+  "PLANTBI 120": [
+    "PLANTBI 120"
+  ],
+  "PLANTBI C124": [
+    "PLANTBI C124"
+  ],
+  "PLANTBI C134": [
+    "PLANTBI C134"
+  ],
+  "PLANTBI 135": [
+    "PLANTBI 135"
+  ],
+  "PLANTBI C148": [
+    "PLANTBI C148"
+  ],
+  "PLANTBI 150": [
+    "PLANTBI 150"
+  ],
+  "PLANTBI 160": [
+    "PLANTBI 160"
+  ],
+  "PLANTBI 165": [
+    "PLANTBI 165"
+  ],
+  "PLANTBI 185": [
+    "PLANTBI 185"
+  ],
+  "PLANTBI 190": [
+    "PLANTBI 190"
+  ],
+  "POL SCI C131A": [
+    "POL SCI C131A"
+  ],
+  "POL SCI 133": [
+    "POL SCI 133"
+  ],
+  "POL SCI C135": [
+    "POL SCI C135"
+  ],
+  "PSYCH 110": [
+    "PSYCH 110"
+  ],
+  "PSYCH C113": [
+    "PSYCH C113"
+  ],
+  "PSYCH 114": [
+    "PSYCH 114"
+  ],
+  "PSYCH C116": [
+    "PSYCH C116"
+  ],
+  "PSYCH 117": [
+    "PSYCH 117"
+  ],
+  "PSYCH C120": [
+    "PSYCH C120"
+  ],
+  "PSYCH 121": [
+    "PSYCH 121"
+  ],
+  "PSYCH 125": [
+    "PSYCH 125"
+  ],
+  "PSYCH C126": [
+    "PSYCH C126"
+  ],
+  "PSYCH C127": [
+    "PSYCH C127"
+  ],
+  "PSYCH 130": [
+    "PSYCH 130"
+  ],
+  "PSYCH 131": [
+    "PSYCH 131"
+  ],
+  "PSYCH 133": [
+    "PSYCH 133"
+  ],
+  "PSYCH 140": [
+    "PSYCH 140"
+  ],
+  "PSYCH 141": [
+    "PSYCH 141"
+  ],
+  "PSYCH C143": [
+    "PSYCH C143"
+  ],
+  "PSYCH 150": [
+    "PSYCH 150"
+  ],
+  "PSYCH 164": [
+    "PSYCH 164"
+  ],
+  "PB HLTH 112": [
+    "PB HLTH 112"
+  ],
+  "PB HLTH 126": [
+    "PB HLTH 126"
+  ],
+  "PB HLTH 129": [
+    "PB HLTH 129"
+  ],
+  "PB HLTH 132": [
+    "PB HLTH 132"
+  ],
+  "PB HLTH 150A": [
+    "PB HLTH 150A"
+  ],
+  "PB HLTH 150B": [
+    "PB HLTH 150B"
+  ],
+  "PB HLTH 162A": [
+    "PB HLTH 162A"
+  ],
+  "PB HLTH 250A": [
+    "PB HLTH 250A"
+  ],
+  "PB HLTH 252B": [
+    "PB HLTH 252B"
+  ],
+  "PUB POL 101": [
+    "PUB POL 101"
+  ],
+  "PUB POL C103": [
+    "PUB POL C103"
+  ],
+  "PUB POL C142": [
+    "PUB POL C142"
+  ],
+  "PUB POL C184": [
+    "PUB POL C184"
+  ],
+  "RHETOR 107": [
+    "RHETOR 107"
+  ],
+  "RHETOR 170": [
+    "RHETOR 170"
+  ],
+  "STS C104D": [
+    "STS C104D"
+  ],
+  "SOCIOL 105": [
+    "SOCIOL 105"
+  ],
+  "SOCIOL 106": [
+    "SOCIOL 106"
+  ],
+  "SOCIOL 108": [
+    "SOCIOL 108"
+  ],
+  "UGBA 101A": [
+    "UGBA 101A"
+  ],
+  "UGBA 101B": [
+    "UGBA 101B"
+  ],
+  "UGBA 102A": [
+    "UGBA 102A"
+  ],
+  "UGBA 102B": [
+    "UGBA 102B"
+  ],
+  "UGBA 103": [
+    "UGBA 103"
+  ],
+  "UGBA 106": [
+    "UGBA 106"
+  ],
+  "UGBA 118": [
+    "UGBA 118"
+  ],
+  "UGBA 120AA": [
+    "UGBA 120AA"
+  ],
+  "UGBA 120AB": [
+    "UGBA 120AB"
+  ],
+  "UGBA 120B": [
+    "UGBA 120B"
+  ],
+  "UGBA 122": [
+    "UGBA 122"
+  ],
+  "UGBA 126": [
+    "UGBA 126"
+  ],
+  "UGBA 131": [
+    "UGBA 131"
+  ],
+  "UGBA 131A": [
+    "UGBA 131A"
+  ],
+  "UGBA 132": [
+    "UGBA 132"
+  ],
+  "UGBA 133": [
+    "UGBA 133"
+  ],
+  "UGBA 134": [
+    "UGBA 134"
+  ],
+  "UGBA 136F": [
+    "UGBA 136F"
+  ],
+  "UGBA 141": [
+    "UGBA 141"
+  ],
+  "UGBA 160": [
+    "UGBA 160"
+  ],
+  "UGBA 161": [
+    "UGBA 161"
+  ],
+  "UGBA 162": [
+    "UGBA 162"
+  ],
+  "UGBA 165": [
+    "UGBA 165"
+  ],
+  "UGBA 169": [
+    "UGBA 169"
+  ],
+  "UGBA 180": [
+    "UGBA 180"
+  ],
+  "UGBA 183": [
+    "UGBA 183"
+  ],
+  "UGBA 184": [
+    "UGBA 184"
+  ],
+  "MATH N1A": [
+    "MATH N1A"
+  ],
+  "MATH N1B": [
+    "MATH N1B"
+  ],
+  "MATH H1B": [
+    "MATH H1B"
+  ]
+}
