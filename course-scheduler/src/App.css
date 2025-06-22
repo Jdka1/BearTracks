@@ -163,3 +163,72 @@ button:hover {
   transform: scale(0.75);
   transform-origin: top center;
 }
+
+
+
+
+
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  margin-bottom: 2.5rem;
+  animation: fadeSlideUp 0.5s ease-out both;
+}
+
+@keyframes fadeSlideUp {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.logo {
+  width: 64px;
+  height: 64px;
+  border-radius: 12px;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.logo:hover {
+  box-shadow: 0 0 14px rgba(0, 50, 98, 0.2);
+  transform: scale(1.05);
+}
+
+h1 {
+  font-size: 2.4rem;
+  margin: 0;
+  font-weight: 800;
+  color: #111827; /* strong neutral slate */
+  letter-spacing: -0.5px;
+}
+
+
+
+
+.scroll-container {
+  overflow-x: auto;
+  white-space: nowrap;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  margin-top: 20px;
+}
+
+.scroll-track {
+  display: flex;
+  gap: 32px;
+}
+
+.schedule-column {
+  flex: 0 0 100%;
+  scroll-snap-align: start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}

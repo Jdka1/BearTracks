@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./App.css";
 import { supabase } from "./supabase";
-
+import CourseCard from "./CourseCard";
 
 function hasTimeConflict(schedule) {
   const seen = new Set();
@@ -42,7 +42,9 @@ export default function App() {
 
   useEffect(() => {
     const fetchRequirements = async () => {
-      const { data, error } = await supabase.from("CourseRequirements").select("*");
+      const { data, error } = await supabase
+        .from("CourseRequirements")
+        .select("*");
       if (error) {
         console.error("Supabase fetch error:", error.message);
         setLoading(false);
@@ -57,7 +59,9 @@ export default function App() {
           reqMap[major] = Array.from(new Set(reqs));
           majorsSeen.add(major);
         } else {
-          reqMap[major] = Array.from(new Set((reqMap[major] || []).concat(reqs)));
+          reqMap[major] = Array.from(
+            new Set((reqMap[major] || []).concat(reqs))
+          );
         }
       });
 
@@ -73,10 +77,50 @@ export default function App() {
 
   const handleCheckboxChange = (course) => {
     setSatisfied((prev) =>
-      prev.includes(course) ? prev.filter((c) => c !== course) : [...prev, course]
+      prev.includes(course)
+        ? prev.filter((c) => c !== course)
+        : [...prev, course]
     );
   };
 
+  const handleGenerateSchedules = () => {
+    const remainingReqs = majorRequirements[major].filter(
+      (req) => !satisfied.includes(req)
+    );
+
+    const timeOptions = [
+      ["MWF 9-10"],
+      ["MWF 10-11"],
+      ["MWF 11-12"],
+      ["TuTh 9-10:30"],
+      ["TuTh 11-12:30"],
+      ["TuTh 1-2:30"],
+      ["TuTh 3-4:30"],
+    ];
+
+    const allCourses = remainingReqs.map((req, idx) => {
+      const timeBlock = timeOptions[idx % timeOptions.length];
+      return {
+        courseCode: req,
+        courseName: `Course: ${req}`,
+        department: major,
+        description: "Auto-filled demo course",
+        units: "4",
+        days: timeBlock[0].split(" ")[0],
+        startTime: timeBlock[0].split(" ")[1].split("-")[0],
+        endTime: timeBlock[0].split(" ")[1].split("-")[1],
+        times: timeBlock,
+        location: "Dwinelle Hall",
+        instructor: "Prof. AutoBot"
+      };
+    });
+
+    const result = getSchedules(allCourses, 4);
+    setSchedules(result);
+  };
+
+
+  
 
   if (loading) return <div className="container">Loading requirements...</div>;
 
@@ -128,21 +172,31 @@ export default function App() {
         />
       </div>
 
-      <button onClick={() => {}}>Generate Course Schedules</button>
+      <button onClick={handleGenerateSchedules}>
+        Generate Course Schedules
+      </button>
 
-      <div className="results">
-        {schedules.map((schedule, idx) => (
-          <div key={idx} className="schedule-card">
-            <strong>Option {idx + 1}</strong>
-            <ul>
-              {schedule.map((c) => (
-                <li key={c.code}>
-                  {c.code} – {c.times.join(", ")}
-                </li>
+      <br />
+      <br />
+
+      <div className="App">
+        <h1>Sample Schedules</h1>
+
+        {schedules.length > 0 ? (
+          <div className="scroll-container">
+            <div className="scroll-track">
+              {schedules.map((schedule, idx) => (
+                <div key={idx} className="schedule-column">
+                  {schedule.map((course, i) => (
+                    <CourseCard key={i} course={course} />
+                  ))}
+                </div>
               ))}
-            </ul>
+            </div>
           </div>
-        ))}
+        ) : (
+          <p style={{ textAlign: "center" }}>No schedules yet.</p>
+        )}
       </div>
     </div>
   );
