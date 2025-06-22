@@ -1,0 +1,374 @@
+{
+  "Lower Division Requirement": [
+    [
+      "MATH 1A"
+    ],
+    [
+      "MATH 1B"
+    ],
+    [
+      "MATH 54"
+    ],
+    [
+      "EECS 16A"
+    ],
+    [
+      "MATH 56"
+    ],
+    [
+      "COMPSCI 61C"
+    ]
+  ],
+  "Upper Division Requirements": [
+    [
+      "COMPSCI 152"
+    ],
+    [
+      "COMPSCI 160"
+    ],
+    [
+      "COMPSCI 161"
+    ],
+    [
+      "COMPSCI 162"
+    ],
+    [
+      "COMPSCI 164"
+    ],
+    [
+      "COMPSCI 168"
+    ],
+    [
+      "COMPSCI 169"
+    ],
+    [
+      "COMPSCI 169A"
+    ],
+    [
+      "COMPSCI 169L"
+    ],
+    [
+      "COMPSCI 180"
+    ],
+    [
+      "COMPSCI 182"
+    ],
+    [
+      "COMPSCI 184"
+    ],
+    [
+      "COMPSCI 186"
+    ],
+    [
+      "EECS 149"
+    ],
+    [
+      "EECS 151"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "COMPSCI/STAT C100"
+    ],
+    [
+      "DATA C100"
+    ],
+    [
+      "COMPSCI 161"
+    ],
+    [
+      "COMPSCI 170"
+    ],
+    [
+      "COMPSCI 172"
+    ],
+    [
+      "COMPSCI 176"
+    ],
+    [
+      "COMPSCI 188"
+    ],
+    [
+      "COMPSCI 189"
+    ],
+    [
+      "COMPSCI C191"
+    ],
+    [
+      "COMPSCI 194"
+    ],
+    [
+      "DATA 101"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EECS 126"
+    ],
+    [
+      "EECS 127"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "EL ENG"
+    ],
+    [
+      "INFO 159"
+    ]
+  ],
+  "Approved Non-Computer Science Technical Electives": [
+    [
+      "ANTHRO 107"
+    ],
+    [
+      "ARCH 122"
+    ],
+    [
+      "ARCH 129"
+    ],
+    [
+      "ARCH 222"
+    ],
+    [
+      "ARCH 229"
+    ],
+    [
+      "ART 178"
+    ],
+    [
+      "ASTRON C162"
+    ],
+    [
+      "COG SCI"
+    ],
+    [
+      "COG SCI"
+    ],
+    [
+      "COG SCI"
+    ],
+    [
+      "DATA C100"
+    ],
+    [
+      "DATA 101"
+    ],
+    [
+      "DATA C102"
+    ],
+    [
+      "DATA C104"
+    ],
+    [
+      "DATA C140"
+    ],
+    [
+      "DATA 144"
+    ],
+    [
+      "ECON 100A"
+    ],
+    [
+      "ECON 100B"
+    ],
+    [
+      "ECON 101A"
+    ],
+    [
+      "ECON 101B"
+    ],
+    [
+      "ECON 136"
+    ],
+    [
+      "ECON 140"
+    ],
+    [
+      "ECON 141"
+    ],
+    [
+      "ECON/DEMOG C175"
+    ],
+    [
+      "EPS 104"
+    ],
+    [
+      "EPS C162"
+    ],
+    [
+      "GEOG 142"
+    ],
+    [
+      "GEOG 183"
+    ],
+    [
+      "GEOG 187"
+    ],
+    [
+      "GEOG C188"
+    ],
+    [
+      "IND ENG"
+    ],
+    [
+      "IND ENG"
+    ],
+    [
+      "INFO 159"
+    ],
+    [
+      "INFO 213"
+    ],
+    [
+      "INFO C262"
+    ],
+    [
+      "LINGUIS C105"
+    ],
+    [
+      "LINGUIS 100"
+    ],
+    [
+      "LINGUIS 120"
+    ],
+    [
+      "MUSIC 108"
+    ],
+    [
+      "MUSIC 158A"
+    ],
+    [
+      "MUSIC 159"
+    ],
+    [
+      "MUSIC 209"
+    ],
+    [
+      "NWMEDIA 190"
+    ],
+    [
+      "NWMEDIA C203/MEC"
+    ],
+    [
+      "NWMEDIA 290"
+    ],
+    [
+      "PHILOS 140A"
+    ],
+    [
+      "PHILOS 140B"
+    ],
+    [
+      "PHILOS 143"
+    ],
+    [
+      "POL SCI"
+    ],
+    [
+      "POL SCI"
+    ],
+    [
+      "PSYCH C123"
+    ],
+    [
+      "PB HLTH"
+    ],
+    [
+      "PB HLTH"
+    ],
+    [
+      "PB HLTH"
+    ],
+    [
+      "PB HLTH"
+    ],
+    [
+      "THEATER 177"
+    ],
+    [
+      "UGBA 103"
+    ],
+    [
+      "UGBA 120AA"
+    ],
+    [
+      "UGBA 120AB"
+    ]
+  ]
+}
