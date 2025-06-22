@@ -8,6 +8,7 @@ export default function CourseCard({ course }) {
         <strong>{course.name}</strong>
       </div>
       <div className="course-details">
+        <div><strong>Title:</strong> {course.title}</div>
         <div><strong>Department:</strong> {course.department}</div>
         <div><strong>Units:</strong> {course.units}</div>
         <div><strong>Days:</strong> {course.days}</div>

@@ -153,7 +153,7 @@ export default function App() {
       </div>
 
       <div className="section">
-        <label>Requirements Already Satisfied (check any):</label>
+        <label>Requirements already satisfied (check any):</label>
         <div key={major} className="checkboxes">
           {majorRequirements[major]?.map((req) => (
             <label key={req} className="checkbox-item">
@@ -168,17 +168,19 @@ export default function App() {
         </div>
       </div>
 
-      <div className="section">
-        <label>Preferences (e.g., “no early mornings”):</label>
-        <textarea
-          rows="3"
-          value={preferences}
-          onChange={(e) => setPreferences(e.target.value)}
-        />
-      </div>
+     <div className="section">
+      <label>Preferences:</label>
+      <textarea
+        rows="3"
+        value={preferences}
+        onChange={(e) => setPreferences(e.target.value)}
+        placeholder="e.g. No early morning classes, interested in machine learning. Want a balanced schedule with humanities/technical courses."
+      />
+    </div>
+
 
       <button onClick={handleGenerateSchedules}>
-        Generate Course Schedules
+        Generate Course Schedules (only served locally)
       </button>
 
       <br />
@@ -188,7 +190,7 @@ export default function App() {
         <h1>Sample Schedules</h1>
 
         {generating ? (
-          <p className="spinner">Generating schedules...</p>
+          <p className="spinner">Generating schedules... (this may take ~30 seconds)</p>
         ) : schedules.length > 0 ? (
           <div className="scroll-container">
             <div className="scroll-track">
