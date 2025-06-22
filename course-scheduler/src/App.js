@@ -115,12 +115,12 @@ export default function App() {
       };
     });
 
-    const result = getSchedules(allCourses, 4);
+    const result = getSchedules(allCourses, 4).slice(0, 15); // limit to 15
     setSchedules(result);
   };
 
 
-  
+
 
   if (loading) return <div className="container">Loading requirements...</div>;
 

@@ -113,34 +113,6 @@ button:hover {
   margin-top: 40px;
 }
 
-.schedule-card {
-  background-color: #e8e8e0;
-  padding: 18px 20px;
-  border-radius: 12px;
-  margin-bottom: 24px;
-  border-left: 6px solid #FDB515;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
-}
-
-.schedule-card strong {
-  color: #003262;
-  font-size: 1.1rem;
-}
-
-.schedule-card ul {
-  list-style: none;
-  padding: 0;
-  margin: 12px 0 0 0;
-}
-
-.schedule-card li {
-  padding: 6px 0;
-  border-bottom: 1px solid #dcdcdc;
-}
-
-.schedule-card li:last-child {
-  border-bottom: none;
-}
 
 .logo {
   width: 90px;
@@ -210,19 +182,14 @@ h1 {
 }
 
 
-
-
 .scroll-container {
-  overflow-x: auto;
+  overflow-x: hidden;
   white-space: nowrap;
   scroll-snap-type: x mandatory;
   -webkit-overflow-scrolling: touch;
   margin-top: 20px;
-}
-
-.scroll-track {
-  display: flex;
-  gap: 32px;
+  z-index: 5;
+  position: relative;
 }
 
 .schedule-column {
@@ -230,5 +197,14 @@ h1 {
   scroll-snap-align: start;
   display: flex;
   flex-direction: column;
-  gap: 16px;
+  gap: 8px;
+  z-index: 5;
 }
+
+
+.scroll-track {
+  display: flex;
+  gap: 32px;
+}
+
+

@@ -2,18 +2,21 @@ import React from "react";
 import "./CourseCard.css";
 
 export default function CourseCard({ course }) {
-  if (!course) return null;
-
   return (
-    <div className="course-card-hover">
-      <div className="course-card">
-        <h2>{course.courseCode}: {course.courseName}</h2>
-        <p><strong>Department:</strong> {course.department}</p>
-        <p><strong>Description:</strong> {course.description}</p>
-        <p><strong>Units:</strong> {course.units}</p>
-        <p><strong>Schedule:</strong> {course.days} {course.startTime} – {course.endTime}</p>
-        <p><strong>Location:</strong> {course.location}</p>
-        <p><strong>Instructor:</strong> {course.instructor}</p>
+    <div className="course-card">
+      <div className="course-header">
+        <strong>{course.courseCode}</strong>
+        <span>{course.courseName}</span>
+      </div>
+      <div className="course-details">
+        <div><strong>Department:</strong> {course.department}</div>
+        <div><strong>Units:</strong> {course.units}</div>
+        <div><strong>Time:</strong> {course.days} {course.startTime}-{course.endTime}</div>
+        <div><strong>Location:</strong> {course.location}</div>
+        <div><strong>Instructor:</strong> {course.instructor}</div>
+      </div>
+      <div className="course-description">
+        {course.description}
       </div>
     </div>
   );
