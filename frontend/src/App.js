@@ -102,7 +102,7 @@ export default function App() {
     setSchedules([]);
 
     try {
-      const response = await fetch("http://192.168.86.40:5000/api/schedule", {
+      const response = await fetch("http://172.20.10.3:5000/api/schedule", {
         method: "POST",
         headers: {
           "Content-Type": "application/json"

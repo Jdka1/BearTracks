@@ -1,0 +1,9 @@
+flask
+flask-cors
+pandas
+regex
+chromadb
+anthropic
+supabase
+sentence-transformers
+gunicorn
